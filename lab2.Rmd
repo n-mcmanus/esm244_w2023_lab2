@@ -1,0 +1,11 @@
+---
+title: "Lab2: Intro do Shiny"
+author: "Nick McManus"
+date: "2023-01-19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
